@@ -6,6 +6,6 @@ sdfsdf
 {% endswagger-description %}
 
 {% swagger-parameter in="query" name="dfsfsd" %}
-dsfsdfsdf
+ds
 {% endswagger-parameter %}
 {% endswagger %}
